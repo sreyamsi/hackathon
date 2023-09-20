@@ -119,6 +119,7 @@
     bottom: -3px;
     left: 0px;
     margin:1px;
+    position:fixed;
 }
 /* .box{
     background: white;
